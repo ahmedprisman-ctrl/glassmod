@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.glassmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["CameraMixin", "PlayerDisplayNameMixin", "ClientPlayerTickMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
